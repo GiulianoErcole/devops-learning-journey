@@ -181,8 +181,8 @@ crontab -l
 mkdir -p ~/system_logs
 chmod 755 ~/system_logs
 
-### Key Learnings
-# Technical Skills
+# Key Learnings
+### Technical Skills
 
 -Writing production-ready bash scripts
 -Understanding system resource metrics
@@ -190,7 +190,7 @@ chmod 755 ~/system_logs
 -Automating repetitive tasks
 -Managing log files effectively
 
-### DevOps Mindset
+# DevOps Mindset
 
 -Proactive vs reactive monitoring
 -Importance of thresholds and alerting
@@ -199,7 +199,7 @@ chmod 755 ~/system_logs
 
 
 # Project Status: ✅ Complete
-# Completion Date: October 2025
+# Completion Date: October 8th,2025
 # Time Invested: ~3 hours
 # Next Project: Containerized web application with Docker
 
